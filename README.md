@@ -5,7 +5,7 @@ Loan Prediction analysis using machine learning algorithms along with the interf
 Data set train.csv has been used for performing analysis of the loan prediction. Here loan prediction indicates whether user is eligible for getting loan.
 
 
-The final_loan_approval_analysis.ipynb attached contains all the analysis performed to find the suitable alogorithm for the data provided. It contains graphs, confusion matrix related to the algorithms and their respective accuracy, precision and other properties to choose best among the algorithms.
+The final_loan_approval_analysis.ipynb attached contains all the analysis performed to find the suitable algorithm for the data provided. It contains graphs, confusion matrix related to the algorithms and their respective accuracy, precision and other properties to choose best among the algorithms.
 
 
 The interface.py file attached contains the the code which was especially created for the user to enter specific details so that at the backend the most appropriate algorithm which was selected (as mentioned in the previous step) will be used respective to the details provided to indicate whether the user can apply for loan or not.
